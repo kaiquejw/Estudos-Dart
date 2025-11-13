@@ -1,0 +1,58 @@
+# 📝 Guia de Estudos do Kaique – Dart & Flutter
+
+Este arquivo reúne **tudo o que você usou para estudar Dart**, incluindo documentações, sites de perguntas, vídeos e até o prompt personalizado que usamos para estudar de um jeito interativo.
+
+Use este arquivo no seu GitHub como referência oficial dos seus estudos.
+
+---
+
+## 📚 Documentações Utilizadas
+
+* [https://dart.dev/language/loops](https://dart.dev/language/loops)
+* [https://dart.dev/language/concurrency](https://dart.dev/language/concurrency)
+* [https://dart.dev/libraries](https://dart.dev/libraries)
+* [https://dart.dev/libraries/async/async-await](https://dart.dev/libraries/async/async-await)
+
+---
+
+## ❓ Sites de Questionários e Aprendizado
+
+* [https://www.turing.com/interview-questions/flutter](https://www.turing.com/interview-questions/flutter)
+* [https://www.wecreateproblems.com/interview-questions/dart-interview-questions](https://www.wecreateproblems.com/interview-questions/dart-interview-questions)
+* [https://flutterparainiciantes.com.br/](https://flutterparainiciantes.com.br/)
+
+---
+
+## 🎥 Vídeos de Conhecimento
+
+* [https://www.youtube.com/watch?v=HEaIsKm-pao](https://www.youtube.com/watch?v=HEaIsKm-pao)
+* [https://www.youtube.com/watch?v=TLRW_xTnQwY](https://www.youtube.com/watch?v=TLRW_xTnQwY)
+* [https://www.youtube.com/watch?v=akKRtjIqRjs](https://www.youtube.com/watch?v=akKRtjIqRjs)
+* [https://www.youtube.com/watch?v=gpJgtED36U4&pp=ygUQZmFiaW8gYWtpdGEgZGFydA%3D%3D](https://www.youtube.com/watch?v=gpJgtED36U4&pp=ygUQZmFiaW8gYWtpdGEgZGFydA%3D%3D)
+* [https://www.youtube.com/watch?v=oUPaJxk6TZ0](https://www.youtube.com/watch?v=oUPaJxk6TZ0)
+
+---
+
+## 🤖 Prompt de Estudos do Kaique
+
+```
+Quero estudar Dart, Flutter forma interativa e explicativa.
+Você vai me fazer uma pergunta de cada vez sobre o assunto.
+Eu vou responder com as minhas palavras, mesmo que eu erre.
+Depois que eu responder, você vai:
+    - Corrigir e explicar com calma o que significa, com exemplos práticos e analogias simples.
+    - Mostrar um exemplo de código (se for um tema de programação).
+    - Fazer uma correção das respostas e mostrar onde errei, mostrando a forma correta de dizer de uma forma fácil de repassar o conhecimento.
+
+Use uma linguagem leve, clara e didática, como se fosse um professor paciente me ensinando passo a passo.
+Não pule pra próxima pergunta até eu dizer que quero continuar.
+O objetivo é entender o raciocínio, não decorar a resposta.
+```
+
+---
+
+## ✔️ Observações
+
+Este documento serve como **base dos seus estudos** e pode ser atualizado quando você quiser.
+
+Adicionar mais fontes, exercícios, prints de código e anotações do Kaique também é bem-vindo!
