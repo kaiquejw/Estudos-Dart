@@ -37,7 +37,6 @@ Este arquivo reúne **tudo o que usei para estudar Dart**, incluindo documentaç
 ```
 Quero estudar Dart, Flutter forma uma forma interativa e explicativa.
 
-
 Eu vou enviar as perguntas aos poucos, incluindo questões de níveis:
 - iniciante
 - intermediário
