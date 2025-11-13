@@ -1,8 +1,6 @@
-# 📝 Guia de Estudos do Kaique – Dart & Flutter
+# 📝 Guia de Estudos – Dart & Flutter
 
-Este arquivo reúne **tudo o que você usou para estudar Dart**, incluindo documentações, sites de perguntas, vídeos e até o prompt personalizado que usamos para estudar de um jeito interativo.
-
-Use este arquivo no seu GitHub como referência oficial dos seus estudos.
+Este arquivo reúne **tudo o que usei para estudar Dart**, incluindo documentações, sites de perguntas, vídeos e até o prompt personalizado que usei para estudar de um jeito interativo.
 
 ---
 
@@ -37,7 +35,7 @@ Use este arquivo no seu GitHub como referência oficial dos seus estudos.
 ## 🤖 Prompt de Estudos que utilizei
 
 ```
-Quero estudar Dart, Flutter forma interativa e explicativa.
+Quero estudar Dart, Flutter forma uma forma interativa e explicativa.
 Você vai me fazer uma pergunta de cada vez sobre o assunto.
 Eu vou responder com as minhas palavras, mesmo que eu erre.
 Depois que eu responder, você vai:
