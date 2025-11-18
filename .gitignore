@@ -1,0 +1,7 @@
+# Ignore pasta de cache e build do Dart
+.dart_tool/
+build/
+.pub-cache/
+.idea/
+.packages
+.DS_Store
