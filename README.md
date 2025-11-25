@@ -19,11 +19,11 @@ test/
 
 Estudos/                    # Materiais de estudo e anotações pessoais (.md, .pdf)
 
----
 
 ```
 ##  Tecnologias Utilizadas
 
+```bash
 Dart SDK 3.x
 
 package:test para testes unitários
@@ -39,7 +39,7 @@ Dart
 Flutter (para projetos futuros)
 
 GitLens (para histórico de código)
-
+```
 ##  Como Executar os Testes
 
 1. Certifique-se de ter o Dart SDK instalado e configurado no PATH.
